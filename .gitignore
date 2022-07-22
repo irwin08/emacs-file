@@ -1,0 +1,12 @@
+# Ignore everything
+/*
+# Except for..
+!.gitignore
+!init.el
+!early-init.el
+!README.md
+!themes/
+!.emacs.el
+!.emacs
+!emacs
+!emacs.el
